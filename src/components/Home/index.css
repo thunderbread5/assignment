@@ -1,0 +1,12 @@
+.nus-logo {
+    height: 40vmin;
+}
+
+.logout-btn {
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    background-color: black;
+}
